@@ -1,1 +1,1 @@
-# HealthCare-AI-Platform
+# HealthCare AI Platform
